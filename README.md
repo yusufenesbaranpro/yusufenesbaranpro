@@ -1,5 +1,6 @@
-![Favori Resim 0](https://github.com/user-attachments/assets/d47553a1-b70f-4c42-b3f9-6757eefb9594)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d47553a1-b70f-4c42-b3f9-6757eefb9594" width="600" alt="Logo">
+</p>
 
 ### <div align="center">I'm Yusuf Enes Baran, a Computer Engineering student.</div>  
   
